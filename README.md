@@ -15,7 +15,9 @@ Bootstrap is a popular open-source framework for building responsive and mobile-
 5. Large community: Bootstrap has a large and active community of developers, which means that there are plenty of resources and support available if you need help or have questions. 
 
 ### Things Covering
-Display headings
-Text decoration and font weight
-Lead Text
-Text and background color
+a. Display headings
+b. Text decoration and font weight
+c. Lead Text
+d. Text and background color
+e. How to work with containers
+f. Grid system
